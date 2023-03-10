@@ -15,5 +15,7 @@ public class Subset {
 
         subset(str.substring(1),p+ch);
         subset(str.substring(1),p);
+
     }
+
 }
